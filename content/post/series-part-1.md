@@ -7,6 +7,8 @@ series:
   - series-setup
 ---
 
+Hi Dave
+
 In this first part of the series we'll show you how to create a series
 
 <!--more-->
