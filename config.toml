@@ -32,3 +32,15 @@ pygmentsCodefencesGuessSyntax = true
     category = "categories"
     series = "series"
     tag = "tags"
+
+[params]
+title = "Dave's Blog"
+author = "David Coleman"
+description = "Hello From Dave"
+
+[menu]
+[[menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/"
