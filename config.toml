@@ -44,3 +44,16 @@ name = "Home"
 identifier = "home"
 weight = 100
 url = "/"
+
+[[menu.main]]
+name = "Posts"
+identifier = "posts"
+weight = 200
+url = "/posts/"
+
+[[menu.main]]
+name = "About"
+identifier = "about"
+weight = 300
+url = "/about/"
+
